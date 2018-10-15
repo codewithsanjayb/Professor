@@ -1,0 +1,98 @@
+a, a:focus, a:hover, a:active {
+  color: #93228D;
+}
+a:hover {
+  color: #93228D;
+}
+::-moz-selection {
+  color: #fff;
+  background: #93228D;
+}
+::selection {
+  color: #fff;
+  background: #93228D;
+}
+.header-navigation a:hover,
+.header-navigation li.current a {
+  color: #93228D;
+}
+.tb-socio .fa:hover {
+  color: #93228D;
+  border: solid 1px #e6400c;
+}
+.carousel-indicators li.active {
+  background: #93228D;
+}
+.go2top:hover {
+  border: solid 2px #93228D;
+  color: #93228D;
+}
+.content h1 strong, .content h2 strong, .content h3 strong, .content h4 strong {
+  color: #93228D;
+}
+.slider-item-1 .large_bold_white span,
+.slider-item-2 .large_bold_white span {
+  color: #93228D;
+}
+.tp-caption a {
+    color: #93228D;
+}
+.services-block .fa {
+  background: #93228D;
+}
+.services-block .fa:after {
+  border-top: 9px solid #e85425;
+}
+.team-block em {
+  color: #93228D;
+}
+.portfolio-block .item > a {
+  background: rgba(229, 74, 26, 0.85);
+}
+.choose-us-block .panel-default .accordion-toggle:before {
+  background-color: #93228D;
+}
+.choose-us-block .panel-default .collapsed:before {
+  background-color: #93228D;/* black */
+}
+.choose-us-block .panel-default .panel-title:hover .collapsed:before {
+  background-color: #93228D;
+}
+.btn-primary {
+  background: #93228D;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+  background: #93228D;
+}
+.facts-block .item {
+  background: rgba(255, 99, 77, 0.92);
+}
+.pi-price strong {
+  background: #93228D;
+}
+.pi-price strong:after {
+  border-top: 9px solid #93228D;
+}
+.pricing-content .list-unstyled li i {
+  color: #93228D;
+}
+.pricing-footer .btn-default:hover,
+.pricing-footer .btn-default:active {
+  background: #93228D;
+}
+.portfolio-block .item b:hover {
+  color: #93228D;
+}
+@media (max-width: 1024px) {
+	.header-mobi-ext .header-navigation a:hover,
+	.header-mobi-ext .header-navigation li.current a{
+	  background-color: #93228D;
+	  color: #fff !important;
+	}
+}
+.header .mobi-toggler:hover {
+  background-color: #93228D;
+  border-color: #93228D;
+}
